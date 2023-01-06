@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CS 202: Programming Fundamentals 2
 A repository containing all Python programs written for CS 202 Programming Fundamentals 2 at Columbia Basin College. All programs are written in Python 3.
 
@@ -25,8 +24,3 @@ A Python program to draw growth rings and number them.
 
 ## trivia-python
 A simple trivia game in Python.
-
-=======
-# employee-management-system-python
-A Python program that allows a user to manage a dictionary of employees, including adding, changing, and deleting employees.
->>>>>>> employee-management-system-python/main
